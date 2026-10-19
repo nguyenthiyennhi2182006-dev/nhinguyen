@@ -1,0 +1,65 @@
+/* Cấu hình chung dùng font chữ đẹp */
+body {
+    font-family: 'Be Vietnam Pro', sans-serif;
+}
+
+.custom-navbar {
+    background-color: #1e73be !important;
+}
+
+
+.hero-section {
+    background: linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)),
+                url("https://images.unsplash.com/photo-1507525428034-b723cf961d3e") center/cover no-repeat;
+    height: 85vh;
+    min-height: 500px;
+}
+
+.hero-desc {
+    max-width: 700px;
+}
+
+.custom-btn-warning {
+    background-color: #f39c12 !important;
+    border-color: #f39c12 !important;
+}
+
+
+.custom-text-primary {
+    color: #1e73be !important;
+}
+
+
+.card-img-custom {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+
+.custom-badge-primary {
+    background-color: #1e73be !important;
+}
+
+.custom-badge-success {
+    background-color: #2ecc71 !important;
+}
+
+
+.custom-footer {
+    background-color: #111111 !important;
+}
+
+.custom-fb-btn {
+    background-color: #3b5998 !important;
+    border: none !important;
+}
+
+.custom-tw-btn {
+    background-color: #1da1f2 !important;
+    border: none !important;
+}
+
+.custom-yt-btn {
+    background-color: #ff0000 !important;
+    border: none !important;
+}
